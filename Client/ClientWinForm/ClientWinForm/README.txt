@@ -38,6 +38,10 @@ a questo punto il servizio funziona correttamente
 dato che ormai il client funzione ed è correttamente configurato ho chiuso il VS con il solo client
 e nel progetto con l'host ho aggiunto il progetto del client.
 
+NOTA: se devo modificare la configurazione del WCF per esempio per usare un altro tipo di binding
+e quindi poi devo aggiornare il client, allora è meglio lavorare il client nella solution separata
+dato che non saprei come aggiornare il servizio
+
 
 
 
